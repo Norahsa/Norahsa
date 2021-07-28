@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Norahsa
 - 👀 I’m interested in making this planet a better place to live in.
-- 🌱 I’m currently learning solidity. I am a molecular oncologist/cyber lawyer of Bombay High Court and a technology maximalist.
-- 💞️ I’m looking to collaborate on a creating a DAO that will further be implemented on a full scale in my company. 
+- 🌱 I’m currently learning solidity. I am a molecular oncologist/cyber lawyer of Bombay High Court and a technology maximalist (even more since 08)
+- 💞️ I’m looking to collaborate on creating a DAO that will further be implemented on a full scale in my company. 
 
 
 <!---
